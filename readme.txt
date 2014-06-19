@@ -14,7 +14,7 @@ There are disabled script. With a reason.
 
 My personal opinion is that some of the c++ scripts are horribly written and are a manace to your server. There are times when they represent 80% of crash situations
 Lua scripts will give constant server console errors
-PHP scripts are simply a gathering of junk script. 99.9% they are not even worth reading.
+PHP scripts are simply a gathering of junk script. 99.9% they are not even worth reading. Maybe only "ai_agent_creator.php"
 
 If you want quick and simple mob AI, use the DB table "ai_agents"
 
