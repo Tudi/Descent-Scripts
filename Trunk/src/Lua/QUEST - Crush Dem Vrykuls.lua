@@ -1,0 +1,16 @@
+function Jotunheim_vrykul_OnDied(pUnit, event, player, Misc)
+	player:AdvanceQuestObjective(12992, 0)
+end
+
+RegisterUnitEvent(29915, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(29919, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30037, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30243, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30250, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30409, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30475, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30483, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30484, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30632, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30725, 4, "Jotunheim_vrykul_OnDied")
+RegisterUnitEvent(30751, 4, "Jotunheim_vrykul_OnDied")
