@@ -1,7 +1,11 @@
-Project is a copy from old arcemu project script / sun++ scripts / moon++ scripts. Fork was created at around rev 700 ?
+Project is a copy from old arcemu project script / sun++ scripts / moon++ scripts. Fork was created at around rev 700 ? Most credit goes to those who deserve it.
 
 There are no major modifications made.
 
-Use Visual Studio 2008
+Only Windows is supported.
+
+Use Visual Studio 2008. Open "scripts/scripts2008.sln" + "sun++/scripts2008.sln"
+
 Compile in Win32-debug or Win64-release mode
-There are disabled script. Sometimes with a reason
+
+There are disabled script. With a reason
