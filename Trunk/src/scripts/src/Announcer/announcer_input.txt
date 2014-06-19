@@ -1,0 +1,39 @@
+//the range where players would hear the announcement
+ANNOUNCE_RANGE=10000
+//note that messages can be top 500 chars long
+
+//the message
+MSGSTRUCT_MSG=Spawned Ahn'kahet: The Old Kingdom instance. Heroic drops are also available
+//broadcast is 0, monster yell is 1, announce in midle of screen 2, in chat like wisper 3
+MSGSTRUCT_TYPE=0
+//in case it is not broadcast then you probably want to use common lang here
+MSGSTRUCT_LANG=0
+//-1 means all maps
+MSGSTRUCT_MAPID=-1
+//all classes
+MSGSTRUCT_CHARCLASS=-1
+//all races
+MSGSTRUCT_CHARRACE=-1
+//this is needed to notify dll that we have a complete block. Every announce block needs to have this
+MSGSTRUCT_ENDSTRUCT=1
+
+MSGSTRUCT_MSG=Vote on www.wowbeez.com dayly for rewards. Voting helps raise server population and you to get easy gold and items.
+MSGSTRUCT_TYPE=0
+MSGSTRUCT_LANG=0
+MSGSTRUCT_MAPID=-1
+MSGSTRUCT_CHARCLASS=-1
+MSGSTRUCT_CHARRACE=-1
+MSGSTRUCT_ENDSTRUCT=1
+
+//we use default settings for these
+MSGSTRUCT_MSG=For problems or suggestions open a GM ticket(You get response in mail).If your ticket is deleted then first check mail if you got a response before recreating it.
+MSGSTRUCT_ENDSTRUCT=1
+
+MSGSTRUCT_MSG=Donations keep server alive.
+MSGSTRUCT_ENDSTRUCT=1
+
+MSGSTRUCT_MSG=Custom items can be bought with vote tokens (Shattrath at fun fun vendor)that can help you in raids or PVP
+MSGSTRUCT_ENDSTRUCT=1
+
+MSGSTRUCT_MSG=Exploits and cheats reported lead to ban(Send uplaoded screenshot link in gm ticket). That means cross faction exploits too (heal one each other in PVP)"
+MSGSTRUCT_ENDSTRUCT=1

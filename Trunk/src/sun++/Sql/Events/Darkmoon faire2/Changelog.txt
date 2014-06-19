@@ -1,0 +1,81 @@
+Darkmoon Faire:
+Created by: Nexis
+
+=====================================================
+Revision 22:
+	- Fixed the sql queries so that adding and removing work correctly and remove everything.
+	- Bunch more cleanup work. Will begin quest rebuild shortly.
+Revision 21:
+	- Removed custom carnies from active series. Now using the correct npc.
+	- Active carnies now hold thier broom and bucket like they should.
+Revision 20:
+	- Fixed the custom carnies. They now apply correctly.
+	- Renamed one of the files.
+Revision 19:
+	- Cleaned up all location sql files.
+	- Removed old sql folders with ripped data. These arn't needed anymore.
+	- Added a 'Remove' sql for Mulgore Setup series. Whops.
+Revision 18:
+	- Removed the Blastenheimer script from the project since it somehow go left behind.
+	- Cleaned up sayge script a bit.
+Revision 17:
+	- Updated TonkControlConsole.cpp in the /extras/ folder. So far you can only drive then around. Anyone
+	  interested in helping with this script?
+	- Fixed Tonks to have correct faction, hp and mana.
+	- Edited cannon type, this will change.
+Revision 16:
+	- Blastenheimer 5000 Cannon scripted. This is in the /extras/ folder and to use it you have to use the
+	  patch 'Gameobject_RemoveModifyEvent.patch' in the /patch/ folder or it won't compile.
+	- Cannon still does not animate, and this can only be used in ElwynnForest right now until I find a way
+	  to make it work in multiple locations. Can anyone script this to animate? Me love you long time. ;)
+Revision 15:
+	- Added the music to the Faire in ElwynnForest. I used an invisible npc instead of a gameobject. 
+	  If anyone can script this for a gameobject, please post it.
+	- Updated sqls to spawn this 'dmfmusic' npc.
+	- Edited some scripts
+Revision 14:
+	- Placed all scripts into a project. This should make things easier to compile.
+	- Initial re-release. i still have a lot to do on here though.
+Revision 13:
+	- Fixed Active Carnies script again, can't believe I missed this
+	- Compiled and working now
+Revision 12:
+	- Clean-up
+	- Added Mulgore Remove Active sql
+	- Still have a lot of clean-up to do on this, bit messy :S
+Revision 11:
+	- Fixed compile error with ActiveCarnies.cpp
+	- Moved SetupCarnies.cpp to extras folder
+	- Started quest rebuild, but far from finished, do not apply.
+Revision 10:
+	- Fixed the ActiveCarnies.cpp script to match the correct id
+	- Did some script cleanup
+	- SetupCarnies.cpp is not working atm. I need to find how to apply the script randomly to a range of guids
+Revision 9:
+	- Mulgore Active location fully spawned!
+	- Cannon scripted and placed in the script's extra folder.
+	- Music started but still needs some work
+	- Tonks started but have a long way to go
+Revision 8:
+	- Stage 1 of Mulgore added (Setup Only)
+	- Moved the scripts to one folder, no need for multiple ones.
+	- Will be turning the scripts into a project for easier compiling soon.
+	- Changed the setup carnies id to 4000x, was getting some strange results with the other ids..
+Revision 7:
+	- Added a vendors.sql, upon request. Some values are incorrect, will fix later.
+Revision 6:
+	- Maxima Blastenheimer should be holding a torch, now she does.
+	- Sayge should be holding a book and a wand, now he does.
+Revision 5:
+	- Added a temporary fix for Sayge not giving a fortune.
+Revision 4:
+	- Fixed Flik's flags from 7 to 128 (vendor)
+Revision 3:
+	- Forgot to add creature_formations information, whops, added.
+	- Tweaked some scripts to match text values in db, thanks again Haskin :D
+Revision 2:
+	- Added some sql changes cleaned up by Haskin
+	- Missed a few other things :P
+Revision 1:
+	- Initial Release
+=====================================================

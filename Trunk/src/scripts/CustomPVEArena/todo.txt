@@ -1,0 +1,30 @@
+- make playercreate work 
+	- allow any char to be created
+	- add bags + sword + ranged
+- make player queue work
+	- queue NPC
+	- create instance 
+	- change player look / faction
+	- add sword + ranged
+	- telleport players
+- spawn junk NPC to get farmed
+	- create templates
+	- spawn NPC
+- make quest objective tracking
+	- monitor kills
+	- update / spawn objectives
+- make auto resurrect functional
+- create vendors
+	- make item templates ( charms ). Or make quests with auras ( no resell ? how to add inventory description ? buffs ? )?
+	- mod server core to trigger charm apply on buy / sell
+	- create spells for item
+- track victory condition
+	- see when king is killed
+	- reward players with some custom coins
+- spawn vanity vendors
+	- add transmog vendors near spawn location
+- add visuals to spells / items
+- add even more items
+- balancing
+	- items and dmg
+	- creatures scale to people level

@@ -1,0 +1,45 @@
+-All sound missing
+-Herald Volazj ...   need more information
+-Krik'thir the Gatewatcher ..  Bugs id and  x y z o ccoord ..
+-Hadronox  missing Text 
+-Every time Hadronox kills a player or attacking Mob, he re-gains health.
+-Anubarak full script missing :D NEED more datazzzz  :)
+-Slad'ran   snake summon coord and sound :D
+-Moorabi  quake spell
+-When Drakos the interrog. dies: Varos Cloudstrider yells: Intruders, your victory will be short-lived. I am Commander Varos Cloudstrider. My drakes control the skies and protest this conduit. I will see to it personally that the Oculus does not fall into your hands! 
+-Drakos the interrog  magic pull spell..
+-Varos_Cloudstrider.lua  Azure Ring Captain  spell  beam
+-Arthas  waypoint and quote
+-MalGanis event..   need coord and go  ID  .. And Arthas quote..
+-Prince_Keleseth need coord  (summon)
+
+
+Dungeon
+
+
+Caverns of Time: The Culling of Stratholme   ++++
+The Nexus: The Oculus			     +++
+Ulduar: Halls of Lightning
+Utgarde Keep: Utgarde Pinnacle
+Ulduar: Halls of Stone
+Gundrak                              	     ++++  
+The Violet Hold
+Drak'Tharon Keep
+Azjol-Nerub: Ahn'kahet: The Old Kingdom      ++++
+Azjol-Nerub: Azjol-Nerub                     ++++
+The Nexus: The Nexus
+Utgarde Keep: Utgarde Keep		     ++++
+
+
+Raid
+
+
+The Nexus: The Eye of Eternity
+The Obsidian Sanctum
+Vault of Archavon
+
+
+
+++++  = all boss scripted
+++    = 50%
++++   = 75%

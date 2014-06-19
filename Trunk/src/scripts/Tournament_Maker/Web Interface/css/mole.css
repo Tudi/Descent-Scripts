@@ -1,0 +1,107 @@
+body
+{ 
+	scrollbar-face-color: #FFFFFF; 
+	scrollbar-shadow-color: #DADADA; 
+	scrollbar-3dlight-color: #EEEEEE; 
+	scrollbar-highlight-color: #FFFFFF; 
+	scrollbar-darkshadow-color: #8E8E8E; 
+	scrollbar-track-color: #FFFFFF; 
+	scrollbar-arrow-color: #8E8E8E;
+}
+
+.clsHeaderText01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.clsLoginText01 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+
+.clsButton01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #808080;
+	text-decoration: none;
+	background-image: url(../images/button_01.gif);
+	height: 20px;
+	width: 90px;
+	border: none;
+	cursor: hand;
+}
+
+.clsButton02 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #669900;
+	text-decoration: none;
+	background-image: url(../images/button_02.gif);
+	height: 20px;
+	width: 90px;
+	border: none;
+	cursor: hand;
+}
+
+.clsTextField01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	border-width: 1px 1px 1px 1px;
+	background-color: #EFEFEF;
+	height: 20px;
+	padding: 3px;
+}
+
+.clsDropdown {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.clsPluginselectText01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #336600;
+	text-decoration: none;
+}
+.clsPluginselectText02 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+.clsListheaderText01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 4px;
+}
+.clsListText01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	padding: 4px;
+}
+.clsMainLink01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #336600;
+	text-decoration: none;
+}
+.clsPageNumberLink01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #808080;
+	text-decoration: none;
+}

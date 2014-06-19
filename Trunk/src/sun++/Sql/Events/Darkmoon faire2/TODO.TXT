@@ -1,0 +1,17 @@
+Darkmoon Faire:
+================================================================
+
+TODO:
+- The creatures with waypoints should walk continuously in a circle, but the movetype in creature_spawns doesnt work.
+- Quests need to be re-writen. The quests.sql doesn't apply correctly yet, so don't use it.
+- Cannon works but I still can't figure out the animation for it.
+- Tonks have a long way to go... Anyone willing to help?
+- NPCs don't offer proper quest text when speaking with them.
+- NPCs set to formation should stop when one of them in a group is spoken to.
+	Instead the other just keeps walking and the one spoken to is stuck.
+		- This has sort of been fixed. The NPCs just keep walking now.
+- The 2 Active Carnies (Script) should have an offset timer so they don't
+	speak at the same time.
+- The NPC Speech should be random. (min/max)
+
+- Terokkar Forest: Not Released

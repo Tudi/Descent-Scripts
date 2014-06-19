@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JumpEvent", "JumpEvent.vcproj", "{BF4207A5-0213-44E2-A08A-6D471BDC3391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		D64|Win32 = D64|Win32
+		Debug|Win32 = Debug|Win32
+		R64|Win32 = R64|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.D64|Win32.ActiveCfg = D64|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.D64|Win32.Build.0 = D64|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.Debug|Win32.Build.0 = Debug|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.R64|Win32.ActiveCfg = R64|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.R64|Win32.Build.0 = R64|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.Release|Win32.ActiveCfg = Release|Win32
+		{BF4207A5-0213-44E2-A08A-6D471BDC3391}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

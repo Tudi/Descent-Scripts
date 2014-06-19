@@ -1,0 +1,23 @@
+n=5Team-5vs5-FFA chaos
+V=556 		this is the spawn id for the wall. If you do not know what this does then just leave it as is and it will use a default wall
+Q=123465	this is the gate guardian. Gates will despawn if this is killed. Using gates to avid players killing each other
+h=557 		this is the spawn id for the gate. If you do not know what this does then just leave it as is and it will use a default gate
+i=49426 	emblem of frost
+ic=5 		number of items to be rewarded
+START_MAZE
+VVVVVVVVVVV
+VP V P V PV
+V         V
+VV       VV
+V         V
+VP V   V PV
+VVVVV VVVVV
+V   VQV   V
+V   VhV   V
+V   VFV   V
+VVVVVVVVVVV
+END_MAZE
+H=555 		we need to define other walls even if we do not use them 
+v=558		we need to define other gates even if we do not use them
+S=14		size of the wall we are using. For default wall 14 is pretty ok size. Can be smaller. If larget then gap is created between walls
+z=-25		our default wall is tall, we just sink it into the ground to make it look smaller. You might need to set this to 0 if you are not using default walls

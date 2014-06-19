@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArenaNoTeam", "ArenaNoTeam.vcproj", "{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		D64|Win32 = D64|Win32
+		Debug|Win32 = Debug|Win32
+		R64|Win32 = R64|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.D64|Win32.ActiveCfg = D64|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.D64|Win32.Build.0 = D64|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.Debug|Win32.Build.0 = Debug|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.R64|Win32.ActiveCfg = R64|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.R64|Win32.Build.0 = R64|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.Release|Win32.ActiveCfg = Release|Win32
+		{AC2202BB-0032-421F-8EC3-9E02E9BFA47D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
